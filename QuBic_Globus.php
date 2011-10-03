@@ -58,6 +58,7 @@ function QuBicGlobus_register_post_types() {
             ),
             'supports' =>  array(
                     'title',
+                    'editor',
             ),
             'labels' =>  array(
                     'name' =>  __('Globus',QBC_GLOBUS_TEXT_DOMAIN),

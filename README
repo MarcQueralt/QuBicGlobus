@@ -1,0 +1,26 @@
+=== QuBic Globus ===
+Contributors: marc
+Tags: post_type, content
+Requires at least: 3.2.1
+Tested up to: 3.2.1
+Stable tag: 0.1
+License: GPLv2 or later
+
+Put content in every place you want on your site. Is an improvement of text widget.
+
+==Description==
+Allows to put content in every place you want on your site.
+Uses widget and shortcode to put edited content on its place.
+The content will be edited via the usual post editor.
+
+==Installation==
+Upload the plugin an activate it.
+
+==Change Log==
+=0.1=
+* Content definition
+* Content editor
+
+=Next Steps=
+* Widget
+* ShortCode
